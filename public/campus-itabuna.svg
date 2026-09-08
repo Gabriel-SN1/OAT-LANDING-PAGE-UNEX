@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="t d">
+<title id="t">Ilustração abstrata de Itabuna</title><desc id="d">Composição geométrica autoral com formas inspiradas em conexão e crescimento.</desc>
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#32155f"/><stop offset="1" stop-color="#7045b0"/></linearGradient></defs>
+<rect width="800" height="520" fill="#f3eef9"/><path d="M0 390C175 280 245 475 420 330S690 170 800 240v280H0z" fill="url(#g)"/><circle cx="170" cy="135" r="78" fill="#bce735"/><circle cx="620" cy="135" r="110" fill="#d8c4f3"/><rect x="225" y="110" width="350" height="270" rx="28" fill="#fff"/><rect x="260" y="150" width="280" height="46" rx="12" fill="#5a2ca0"/><rect x="260" y="220" width="124" height="125" rx="16" fill="#ebe2f7"/><rect x="404" y="220" width="136" height="125" rx="16" fill="#32155f"/></svg>
